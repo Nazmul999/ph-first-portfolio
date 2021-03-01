@@ -6,10 +6,16 @@ body{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 h1{
     font-size: 50px;
 }
+
+h1{
+    font-size: 40px;
+}
+
 p{
     font-size: 15px;
     text-align: justify;
@@ -37,3 +43,22 @@ p{
     
 }
 
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px ;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    color: white;
+    ba
+
+}
+
+.dream-area{
+    background-image: url("images/dream-bg.png") ;
+    background-repeat: no-repeat;
+    background-position:right;
+}
